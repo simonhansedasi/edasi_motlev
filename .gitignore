@@ -31,3 +31,6 @@ why-physics-works-notes.md
 *.tif
 *.tiff
 *.ico
+
+# Business documents, local + Pi only
+docs/
